@@ -319,6 +319,7 @@ public class MainActivity extends AppCompatActivity {
     public void set_activity(View view){
         Intent it=new Intent(this,Main2Activity.class);
         startActivity(it);
+        //Document this
 
     }
 }
